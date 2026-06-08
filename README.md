@@ -1,8 +1,5 @@
+![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
-
----
-
-```markdown
 # 🚀 Fault-Tolerant Distributed Messaging App  
 ### SE2062 · Distributed Systems  
 
